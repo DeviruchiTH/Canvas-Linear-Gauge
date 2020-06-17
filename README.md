@@ -7,3 +7,8 @@ Example Linear Gauge Component
 Version 1.0.0
 
 Developed By - D£viπuchi°
+
+
+Copyright
+
+Copyright 2020 ARMTronics-TH
