@@ -1,4 +1,4 @@
-# DeviruchiStyle
+# Linear Gauge for CodeTyphon
 
 Linear Gauge Component for CodeTyphon
 
