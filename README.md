@@ -10,5 +10,5 @@ Developed By - D£viπuchi°
 
 
 Copyright
-
+<hr>
 Copyright 2020 ARMTronics-TH
