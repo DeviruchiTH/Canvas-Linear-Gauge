@@ -1,8 +1,6 @@
-# Linear Gauge for CodeTyphon
+# Example Linear Gauge Component for Lazarus, CodeTyphon
 
 Linear Gauge Component for CodeTyphon
-
-# Example Linear Gauge Component
 
 Version 1.0.0
 
