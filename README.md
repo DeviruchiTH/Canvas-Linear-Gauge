@@ -2,7 +2,7 @@
 
 Linear Gauge Component for CodeTyphon
 
-Example Linear Gauge Component
+<b>Example</b> Linear Gauge Component
 
 Version 1.0.0
 
