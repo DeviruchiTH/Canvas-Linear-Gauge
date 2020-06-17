@@ -6,6 +6,8 @@ Linear Gauge Component for CodeTyphon
 Version 1.0.0
 
 Developed By - D£viπuchi° Kritch Sripetch
+
+platform : Windows, Linux, Raspberry pi
 <hr>
 
 If you need to use lazarus you can use ct2laz convert to Lazarus
