@@ -7,6 +7,10 @@ Example Linear Gauge Component
 Version 1.0.0
 
 Developed By - D£viπuchi°
+
+<hr>
+<img src="https://i.postimg.cc/hvydfZRf/Linear-Gauge.png" style="max-width:100%;"/>
+
 <hr>
 
 Required Packages
