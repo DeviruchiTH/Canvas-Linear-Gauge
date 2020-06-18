@@ -1,4 +1,4 @@
-# Example Linear Gauge Component for Lazarus, CodeTyphon
+# Linear Gauge Component Example for Lazarus, CodeTyphon
 
 <a href="https://paypal.me/deviruchidonate">[ Donate ]</a>
 
